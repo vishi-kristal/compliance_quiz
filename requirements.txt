@@ -1,0 +1,12 @@
+streamlit
+pandas==2.2.2
+gspread
+pytz
+PyMuPDF
+ipywidgets
+Python-dotenv
+reportlab
+datetime
+io
+os
+random
