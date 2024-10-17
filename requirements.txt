@@ -1,10 +1,5 @@
 streamlit
-pandas==2.2.2
-gspread
-pytz
-PyMuPDF
-ipywidgets
-Python-dotenv
+pandas
 reportlab
 datetime
 io
