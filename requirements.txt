@@ -1,7 +1,4 @@
 streamlit
 pandas
 reportlab
-datetime
-io
-os
-random
+openpyxl
